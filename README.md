@@ -37,7 +37,7 @@ make
 
 If your system has multicore CPU use "make -jN" command (Which N is a number between 1 and 2×number of CPU cores) instead of "make" command to compiling faster at last line. For example: Use "make -j12" command at a system with an Octa-core CPU. Above commands will take about an hour to be completed.
 
-After running above commands find and choose desired ".uf2" file and place it into a flash memory. Then plug it into Raspberry PI Pico and enjoy it!
+After running above commands find and choose desired ".uf2" file and place it into a flash memory. Then plug it into Raspberry PI Pico microUSB port and enjoy it!
 
 ### First  Examples
 
